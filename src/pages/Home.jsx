@@ -67,7 +67,7 @@ function Home() {
       />
       {!arrow ? (
         <>
-          <div className="w-full md:w-[50%] h-full flex justify-start items-center flex-col pt-[20px] md:pt-[120px] gap-[25px]">
+          <div className="w-full md:w-[50%] h-full flex justify-start items-center flex-col pt-[120px] md:pt-[120px] gap-[25px]">
             <h1 className="text-white font-semibold text-[20px]">
               Now Playing
             </h1>
